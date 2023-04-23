@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/me/static/css/main.c8dc32b1.css",
-    "main.js": "/me/static/js/main.fd0f92ca.js",
+    "main.js": "/me/static/js/main.d7727489.js",
     "static/js/787.ee95881d.chunk.js": "/me/static/js/787.ee95881d.chunk.js",
     "static/media/stanfordDaily.png": "/me/static/media/stanfordDaily.7998df44e2df1e51a9e2.png",
     "static/media/IMG_8564.png": "/me/static/media/IMG_8564.7d4e839dc7ada3dc8070.png",
@@ -9,11 +9,11 @@
     "static/media/a11yDocs.png": "/me/static/media/a11yDocs.26ee56593ea7c6a706e0.png",
     "index.html": "/me/index.html",
     "main.c8dc32b1.css.map": "/me/static/css/main.c8dc32b1.css.map",
-    "main.fd0f92ca.js.map": "/me/static/js/main.fd0f92ca.js.map",
+    "main.d7727489.js.map": "/me/static/js/main.d7727489.js.map",
     "787.ee95881d.chunk.js.map": "/me/static/js/787.ee95881d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8dc32b1.css",
-    "static/js/main.fd0f92ca.js"
+    "static/js/main.d7727489.js"
   ]
 }
